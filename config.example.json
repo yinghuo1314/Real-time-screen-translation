@@ -1,0 +1,10 @@
+{
+  "region": null,
+  "interval": 0.6,
+  "font_size": 22,
+  "width": 900,
+  "fixed_width": false,
+  "alpha": 0.82,
+  "engine": "bing",
+  "show_source": true
+}

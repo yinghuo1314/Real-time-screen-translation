@@ -1,0 +1,7 @@
+# 运行依赖（Python 3.10+）
+# 装法一：直接 pip
+#   pip install -r requirements.txt
+# 装法二：pip 被墙/被拦住时，用自带的下载器（走阿里云镜像解压进 vendor/）
+#   python _resolve_deps.py rapidocr-onnxruntime pillow
+rapidocr_onnxruntime>=1.4.4
+pillow>=10.0
